@@ -1,0 +1,34 @@
+path: C:\Users\Gebruiker\Documents\repos\DeepLearningPractical\Task_1\Data # absolute path to dataset
+test: test/images # relative path to test images
+train: train/images # relative path to training images
+val: val/images # relative path to validation images
+
+# classes
+names:
+  0: alef
+  1: ayin
+  2: bet
+  3: dalet
+  4: gimel
+  5: he
+  6: het
+  7: kaf
+  8: kaf_final
+  9: lamed
+  10: mem
+  11: mem-medial
+  12: nun_final
+  13: nun_medial
+  14: pe
+  15: pe_final
+  16: qof
+  17: resh
+  18: samekh
+  19: shin
+  20: taw
+  21: tet
+  22: tsadi_final
+  23: tsadi_medial
+  24: waw
+  25: yod
+  26: zayin
